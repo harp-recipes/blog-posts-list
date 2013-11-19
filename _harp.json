@@ -1,0 +1,9 @@
+{
+  "harp_recipe": {
+    "tags": ["blog", "data", "code", "snippets", "jade", "template"],
+    "uses": ["jade", "html", "ejs", "harp"],
+    "reading_time": "~5 minutes",
+    "visible": true,
+    "related_recipes": []
+  }
+}
